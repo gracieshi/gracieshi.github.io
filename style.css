@@ -21,4 +21,9 @@
    font-size:40px;
    margin: 18px 0;
    color: purple;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.p {
+   font-size: 25px;
+   font-family:"Lucida Console", "Courier New", monospace;
 }
